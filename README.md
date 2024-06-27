@@ -3,6 +3,7 @@
 ## Description
 
 This script utilizes Google Earth Engine to visualize the impacts of Ulawun volcano's lava-fountaining episode. By analyzing Sentinel-2 imagery from two different time periods, it provides a detailed view of the changes in the landscape due to volcanic activity. The visualization is created using a split panel interface to compare false color images from before and after the event.
+https://medium.com/@martin2kelko/before-and-after-images-of-the-2023-ulawun-volcano-paroxysm-period-scripted-in-googleearth-engine-c687cbabecfa
 
 ## How to Use
 
