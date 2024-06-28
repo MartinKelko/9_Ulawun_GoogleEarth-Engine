@@ -1,0 +1,45 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore output directories and files
+output/
+output_directory/
+*.tif
+*.tiff
+*.aux
+*.ovr
+*.png
+*.gif
+
+# Ignore Earth Engine JavaScript files
+*.js
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore specific configuration files
+earthengine-auth-*.json
+
+# Ignore any personal or sensitive data
+*.env
